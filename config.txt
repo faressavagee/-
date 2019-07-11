@@ -1,6 +1,6 @@
-token=
-owner=ID 
+token=NTk4OTk3ODg1OTE2NTQ1MDU4.XSe1ww.343t13rF-0TxIEA--Nms0X3glFs
+owner=540654145355382784
 prefix=1
-game=type 1help
+game=aslan
 stayinchannel=true
 songinstatus=true
